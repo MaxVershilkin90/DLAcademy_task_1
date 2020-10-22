@@ -1,0 +1,23 @@
+/* line 1, ../sass/main.scss */
+:root {
+  font-size: 16px;
+}
+
+/* line 13, ../sass/main.scss */
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* line 19, ../sass/main.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 24, ../sass/main.scss */
+body {
+  margin: 0;
+  padding: 0;
+}
